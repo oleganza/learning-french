@@ -1,0 +1,93 @@
+
+Première leçon
+
+Qu'est-ce que c'est?
+
+c'est un livre
+c'est un cahier
+c'est un stylo
+c'est un crayon
+c'est un banc
+
+c'est une serviette
+c'est une gomme
+c'est une règle 
+c'est une table
+c'est une chaise
+
+Est-ce un banc? Oui, c'est un banc
+Est-ce un banc? Non, ce n'est pas un banc, c'est une table
+
+Prononciation
+
+Un homme
+Un garçon
+Une femme
+Une fille
+Qu'est-ce que c'est?
+  c'est un stylo
+  c'est un banc
+  c'est une table
+  c'est une gomme
+  c'est une chaise
+  est-ce un cahier?
+  — non, ce n'est pas un cahier, c'est un crayon
+
+un homme -> masculin
+une femme -> féminin
+
+EXERCICES
+
+I) Qu'est-ce que c'est ?
+
+  C'est un livre
+  C'est une serviette
+  C'est un cahier
+  C'est un crayon
+  C'est une femme
+  C'est une gomme
+  C'est une table
+  C'est une règle
+  C'est un banc
+  C'est un stylo
+  
+II) Est-ce...
+
+  Est-ce un stylo ?   Oui, c'est un stylo.
+  Est-ce un banc ?    Non, ce n'est pas un banc, c'est un livre.
+  Est-ce une femme ?  Non, ce n'est pas une femme, c'est un homme.
+  Est-ce une chaise ? Non, ce n'est pas une chaise, c'est une serviette.
+  Est-ce un garçon ?  Oui, c'est un garçon.
+  Est-ce un cahier ?  Non, ce n'est pas un cahier, c'est une chaise.
+  Est-ce une règle ?  Oui, c'est ça. C'est une règle.
+  Est-ce un livre ?   Non, ce n'est pas un livre. C'est une gomme.
+  Est-ce un crayon ?  Non, ce n'est pas un crayon. C'est une table.
+  Est-ce une table ?  Non, ce n'est pas une table, c'est un cahier.
+  
+III) Écrivez _un_ ou _une_ :
+  
+  C'est une règle.
+  C'est un garçon.
+  C'est un serviette.
+  C'est une gomme.
+  C'est un stylo.
+  C'est un livre.
+  C'est un cahier.
+  C'est un homme.
+  C'est une femme.
+  C'est une fille.
+  C'est un banc.
+  C'est un crayon.
+  C'est une chaise.
+  C'est une table.
+  
+
+
+
+
+
+
+
+
+
+
