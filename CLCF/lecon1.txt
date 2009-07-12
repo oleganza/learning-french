@@ -40,16 +40,16 @@ EXERCICES
 
 I) Qu'est-ce que c'est ?
 
-  C'est un livre
-  C'est une serviette
-  C'est un cahier
-  C'est un crayon
-  C'est une femme
-  C'est une gomme
-  C'est une table
-  C'est une règle
-  C'est un banc
-  C'est un stylo
+  C'est un livre - книга
+  C'est une serviette - портфель
+  C'est un cahier - тетрадь
+  C'est un crayon - карандаш
+  C'est une femme - женщина
+  C'est une gomme - резинка/ластик
+  C'est une table - стол
+  C'est une règle - линейка
+  C'est un banc - скамейка
+  C'est un stylo - ручка
   
 II) Est-ce...
 
