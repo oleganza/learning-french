@@ -42,6 +42,8 @@ Nombres
   neuf
   dix
   
+EXERCICES  
+
 I) Qu'est-ce que c'est ?
   C'est un mouchoir
   C'est une lampe
