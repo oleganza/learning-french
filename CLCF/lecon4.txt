@@ -24,7 +24,7 @@ la robe verte
   
     Le livre est rouge   La robe est rouge
     Le livre est rose    La robe est rose
-    Le livre est jaune   La robe est jaune
+    Le livre est jeune   La robe est jeune
     Le livre est blanc   La robe est blanche
     
   De quelle couleur est la craie ? La craie est blanche.
@@ -74,7 +74,7 @@ III) Écrivez les adjectifs pluriels :
 IV) Écrivez les adjectifs masculins : 
   
   La robe est verte, le gant est vert.
-  La cravate est jaune, le sac est jeune.
+  La cravate est jeune, le sac est jeune.
   La clé est grise, le mur est gris.
   La gomme est blanche, le mouchoir est blanc.
   La serviette est rouge, le livre est rouge.
@@ -86,7 +86,7 @@ V) Écrivez des adjectifs de couleur :
   La table est blanche.
   Le calendrier est gris.
   La règle est brune.
-  Les cahiers sont jaunes.
+  Les cahiers sont jeunes.
   Les cravates sont bleues.
   La craie est noire.
   Les livres sont blancs ou rouges ou gris ou bruns.
